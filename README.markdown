@@ -1,4 +1,4 @@
-# MachineLearning_Algorithms_YourName
+# MachineLearning_Algorithms_DatshinAbinanth
 
 This repository contains five Python scripts implementing different machine learning algorithms using scikit-learn datasets. Each script includes data loading, model training, prediction, and evaluation with detailed comments.
 
